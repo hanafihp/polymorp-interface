@@ -1,0 +1,15 @@
+D:\Amikom\VSCODE\PEMROG\laprak10\bin\Debug\net8.0\laprak10.exe
+D:\Amikom\VSCODE\PEMROG\laprak10\bin\Debug\net8.0\laprak10.deps.json
+D:\Amikom\VSCODE\PEMROG\laprak10\bin\Debug\net8.0\laprak10.runtimeconfig.json
+D:\Amikom\VSCODE\PEMROG\laprak10\bin\Debug\net8.0\laprak10.dll
+D:\Amikom\VSCODE\PEMROG\laprak10\bin\Debug\net8.0\laprak10.pdb
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.csproj.AssemblyReference.cache
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.AssemblyInfoInputs.cache
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.AssemblyInfo.cs
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.csproj.CoreCompileInputs.cache
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.dll
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\refint\laprak10.dll
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.pdb
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\laprak10.genruntimeconfig.cache
+D:\Amikom\VSCODE\PEMROG\laprak10\obj\Debug\net8.0\ref\laprak10.dll
